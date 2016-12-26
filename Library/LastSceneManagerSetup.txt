@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Chess_demo_Ant.unity
+  isLoaded: 1
+  isActive: 1
